@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Wix Madefor Display', sans-serif;
+}
+
+.navegation{
+    background-image: url(./images/banner/banner3.png);
+    width: auto;
+    height: 810px;
+}
+.nav-section{
+    text-align: right;
+}
+.nav-title{
+    color: #FFF;
+font-size: 65px;
+font-weight: 700;
+padding: 200px 120px 24px 900px;
+}
+.nav-caption{
+    color: #FFF;
+    font-size: 20px;
+    padding: 0px 110px 32px 950px;
+}
+.nav-btn{
+    background-color: #FFF;
+    color: black;
+    border-radius: 5px;
+ margin: 0 110px 0 0;
+ padding: 10px;
+}
