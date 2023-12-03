@@ -32,8 +32,61 @@ padding: 200px 120px 24px 900px;
 }
 .nav-btn{
     background-color: #FFF;
-    color: black;
+    color: #005FAC;
+    font-size: 15px;
+    border: none;
     border-radius: 5px;
  margin: 0 110px 0 0;
  padding: 10px;
+}
+.previous-year{
+    display: flex;
+    gap: 70px;
+    margin: 150px 500px 100px 300px;
+    align-items: center;
+}
+.failures-title{
+    color: black;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 24px;
+}
+.failures-caption{
+    color: rgb(68, 67, 67);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+.failures-item{
+    color: rgb(68, 67, 67);
+    font-size: 16px;
+    font-weight: 400;
+}
+.item{
+    margin-bottom: 12px;
+}
+.plans{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.plans-item{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin-bottom: 150px;
+    text-align: center;
+}
+.item-name{
+    color: #151414;
+    font-size: 27px;
+    font-weight: 700;
+    margin: 17px 0px;
+}
+.item-details{
+    color: #737272;
+    font-size: 22px;
+    font-weight: 500;
 }
