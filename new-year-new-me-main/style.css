@@ -123,3 +123,58 @@ padding: 200px 120px 24px 900px;
     width: auto;
 height: 577px;
 }
+.footer-section{
+    color: #FFF;
+    display: flex;
+    gap: 550px;
+   padding-left: 120px;
+    padding-top: 200px;
+}
+.details-title{
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+.details-caption{
+    width: 480px;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+.details-contact{
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 7px;
+    margin-bottom: 15px;
+}
+.footer-details img{
+margin-right: 8px;
+}
+.Contact-title{
+    color: #FFF;
+font-size: 32px;
+font-weight: 600;
+margin-bottom: 23px;
+}
+.footer-contact input{
+    background-color: #0c0c0c;
+    border: 1px solid whitesmoke;
+    border-radius: 4px;
+    color: white;
+width: 250px;
+height: 38px;
+padding-left: 10px;
+margin-bottom: 20px;
+}
+.Contact-btn{
+background: #005FAC;
+color: #FFF;
+width: 130px;
+height: 40px;
+border: none;
+border-radius: 4px;
+}
+
