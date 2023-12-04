@@ -34,6 +34,7 @@ padding: 200px 120px 24px 900px;
     background-color: #FFF;
     color: #005FAC;
     font-size: 15px;
+    font-weight: 600;
     border: none;
     border-radius: 5px;
  margin: 0 110px 0 0;
@@ -89,4 +90,36 @@ padding: 200px 120px 24px 900px;
     color: #737272;
     font-size: 22px;
     font-weight: 500;
+}
+.main-three{
+    background: linear-gradient(to right, #005FAC 0%, rgba(0, 95, 172, 0.00) 100%), url(./images/watch.png);
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    border-radius: 5px;
+    margin-left: 350px;
+    margin-bottom: 120px;
+}
+.watch{
+    text-align: start;
+    padding: 70px 610px 140px 70px;
+}
+.watch-title{
+    color: #FFF;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.watch-btn{
+    color: #005FAC;
+    padding: 12px 25px;
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 4px;
+    border: none;
+}
+.footer{
+    background-color: #151414;
+    width: auto;
+height: 577px;
 }
